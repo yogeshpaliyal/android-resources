@@ -1,4 +1,11 @@
 # Android-Resources
+## Internals
+### Android
+#### Coroutines
+### OkHttp
+### Retrofit
+### Glide
+
 ## Performance
 ### Videos
 - [Unblocking The Main Thread: Solving ANRs and Frozen Frames](https://youtu.be/BSB7ZLNm9ac)
@@ -10,4 +17,8 @@
 ### Gradle
 ### R8
 ### D8
+
+## Tools
+### ADB
+- [What if ADB does not have to be that complicated?](https://youtu.be/auiGFhKBDAE)
 
