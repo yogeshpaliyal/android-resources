@@ -21,4 +21,5 @@
 ## Tools
 ### ADB
 - [What if ADB does not have to be that complicated?](https://youtu.be/auiGFhKBDAE)
+- [PRACTICAL ADB USAGE TO ENHANCE YOUR LIFE! - Benjamin Kadel | Droidcon Italy 2023 Talk](https://youtu.be/KFnqoze9nZc)
 
