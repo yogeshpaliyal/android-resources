@@ -6,6 +6,7 @@ This repository serves as a curated collection of valuable resources related to 
 
 ## Internals
 ### Android
+- [Bytecode analysis for everyone!](https://youtu.be/6cYmdoeZ1OY)
 #### Coroutines
 ### OkHttp
 ### Retrofit
