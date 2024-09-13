@@ -1,4 +1,6 @@
 # Android-Resources
+![1000121760](https://github.com/user-attachments/assets/490bb5a4-ce1d-4ffb-b04b-61a3ca91ab31)
+
 ## Internals
 ### Android
 #### Coroutines
