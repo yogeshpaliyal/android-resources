@@ -13,9 +13,12 @@ This repository serves as a curated collection of valuable resources related to 
 ### Glide
 
 ## Performance
-### Videos
+#### Videos
 - [Unblocking The Main Thread: Solving ANRs and Frozen Frames](https://youtu.be/BSB7ZLNm9ac)
-### Blogs
+#### Blogs
+
+### Baseline Profiles
+- [Making apps blazing fast with Baseline Profiles](https://youtu.be/yJm5On5Gp4c)
 
 ## UI
 ### Compose
