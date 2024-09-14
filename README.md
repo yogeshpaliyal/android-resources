@@ -34,6 +34,7 @@ This repository serves as a curated collection of valuable resources related to 
 ## Build Tools
 ### Gradle
 ### R8
+- [What is R8 and how we enabled it](https://stefma.medium.com/what-is-r8-and-how-we-enabled-it-4f5764a7ff9c#:~:text=The%20R8%20compiler%20detects%20unused,also%20optimizes%20the%20source%20code.)
 ### D8
 <hr/>
 
