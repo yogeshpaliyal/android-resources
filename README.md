@@ -8,6 +8,8 @@ This repository serves as a curated collection of valuable resources related to 
 ## Internals
 ### Android
 - [Bytecode analysis for everyone!](https://youtu.be/6cYmdoeZ1OY)
+### Kotlin
+- [How to make kotlin compile 2x faster on a super large project?](https://www.droidcon.com/2024/08/11/how-to-make-kotlin-compile-2x-faster-on-a-super-large-project/)
 ### Popular Libraries
 #### Coroutines
 #### OkHttp
