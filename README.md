@@ -19,7 +19,7 @@ This repository serves as a curated collection of valuable resources related to 
 
 ### Baseline Profiles
 - [Making apps blazing fast with Baseline Profiles](https://youtu.be/yJm5On5Gp4c)
-
+- [Make your app faster with Baseline Profiles Perfetto and more - Rahul Ravikumar](https://youtu.be/7bLTmPpUIno)
 ## UI
 ### Compose
 ## Build Tools
