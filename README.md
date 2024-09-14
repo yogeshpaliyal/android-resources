@@ -3,14 +3,18 @@
 
 This repository serves as a curated collection of valuable resources related to Android development. It aims to provide developers with a centralized hub to discover and explore informative content on various Android-specific topics, including performance optimization, UI/UX design, architectural patterns, testing methodologies, popular libraries and tools, and best practices.
 
+<hr/>  
 
 ## Internals
 ### Android
 - [Bytecode analysis for everyone!](https://youtu.be/6cYmdoeZ1OY)
+### Popular Libraries
 #### Coroutines
-### OkHttp
-### Retrofit
-### Glide
+#### OkHttp
+#### Retrofit
+#### Glide
+
+<hr/>
 
 ## Performance
 #### Videos
@@ -20,12 +24,18 @@ This repository serves as a curated collection of valuable resources related to 
 ### Baseline Profiles
 - [Making apps blazing fast with Baseline Profiles](https://youtu.be/yJm5On5Gp4c)
 - [Make your app faster with Baseline Profiles Perfetto and more - Rahul Ravikumar](https://youtu.be/7bLTmPpUIno)
+
+<hr/>
+
 ## UI
 ### Compose
+<hr/>
+
 ## Build Tools
 ### Gradle
 ### R8
 ### D8
+<hr/>
 
 ## Tools
 ### ADB
