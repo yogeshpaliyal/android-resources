@@ -3,6 +3,28 @@
 
 This repository serves as a curated collection of valuable resources related to Android development. It aims to provide developers with a centralized hub to discover and explore informative content on various Android-specific topics, including performance optimization, UI/UX design, architectural patterns, testing methodologies, popular libraries and tools, and best practices.
 
+## Table of Contents
+- [Internals](#internals)
+  - [Android](#android)
+  - [Kotlin](#kotlin)
+  - [Popular Libraries](#popular-libraries)
+    - [Coroutines](#coroutines)
+    - [OkHttp](#okhttp)
+    - [Retrofit](#retrofit)
+    - [Glide](#glide)
+- [Performance](#performance)
+  - [Videos](#videos)
+  - [Blogs](#blogs)
+  - [Baseline Profiles](#baseline-profiles)
+- [UI](#ui)
+  - [Compose](#compose)
+- [Build Tools](#build-tools)
+  - [Gradle](#gradle)
+  - [R8](#r8)
+  - [D8](#d8)
+- [Tools](#tools)
+  - [ADB](#adb)
+
 <hr/>  
 
 ## Internals
@@ -19,9 +41,9 @@ This repository serves as a curated collection of valuable resources related to 
 <hr/>
 
 ## Performance
-#### Videos
+### Videos
 - [Unblocking The Main Thread: Solving ANRs and Frozen Frames](https://youtu.be/BSB7ZLNm9ac)
-#### Blogs
+### Blogs
 
 ### Baseline Profiles
 - [Making apps blazing fast with Baseline Profiles](https://youtu.be/yJm5On5Gp4c)
