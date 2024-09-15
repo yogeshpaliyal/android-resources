@@ -13,11 +13,8 @@ This repository serves as a curated collection of valuable resources related to 
     - [Retrofit](#retrofit)
     - [Glide](#glide)
 - [Performance](#performance)
-  - [Videos](#videos)
-  - [Blogs](#blogs)
   - [Baseline Profiles](#baseline-profiles)
   - [Startup Profiles](#startup-profiles)
-  - [Debugging](#debugging)
 - [Build Tools](#build-tools)
   - [Gradle](#gradle)
   - [R8](#r8)
@@ -42,9 +39,11 @@ This repository serves as a curated collection of valuable resources related to 
 <hr/>
 
 ## Performance
-### Videos
+#### Video
 - [Unblocking The Main Thread: Solving ANRs and Frozen Frames](https://youtu.be/BSB7ZLNm9ac)
-### Blogs
+#### Blog
+- [Mastering Android App Performance: Analyzing Bottlenecks with Perfetto 🚦](https://blog.shreyaspatil.dev/mastering-android-app-performance-analyzing-bottlenecks-with-perfetto)
+
 
 ### Baseline Profiles
 - [Making apps blazing fast with Baseline Profiles](https://youtu.be/yJm5On5Gp4c)
@@ -52,9 +51,6 @@ This repository serves as a curated collection of valuable resources related to 
 
 ### Startup Profiles
 - [Official Documentation](https://developer.android.com/topic/performance/baselineprofiles/dex-layout-optimizations)
-
-### Debugging
-- [Mastering Android App Performance: Analyzing Bottlenecks with Perfetto 🚦](https://blog.shreyaspatil.dev/mastering-android-app-performance-analyzing-bottlenecks-with-perfetto)
 
 <hr/>
 
