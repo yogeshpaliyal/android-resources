@@ -30,6 +30,7 @@ This repository serves as a curated collection of valuable resources related to 
 - [Desugaring in Android](https://blog.mindorks.com/desugaring-in-android/)
 ### Kotlin
 - [How to make kotlin compile 2x faster on a super large project?](https://www.droidcon.com/2024/08/11/how-to-make-kotlin-compile-2x-faster-on-a-super-large-project/)
+- [Advanced Kotlin Flow Cheat sheet (for Android Engineer)](https://medium.com/@galou.minisini/advanced-kotlin-flow-cheat-sheet-for-android-engineer-cb8157d4f848)
 ### Popular Libraries
 #### Coroutines
 #### OkHttp
