@@ -17,6 +17,7 @@ This repository serves as a curated collection of valuable resources related to 
   - [Blogs](#blogs)
   - [Baseline Profiles](#baseline-profiles)
   - [Startup Profiles](#startup-profiles)
+  - [Debugging](#debugging)
 - [UI](#ui)
   - [Compose](#compose)
 - [Build Tools](#build-tools)
@@ -52,6 +53,9 @@ This repository serves as a curated collection of valuable resources related to 
 
 ### Startup Profiles
 - [Official Documentation](https://developer.android.com/topic/performance/baselineprofiles/dex-layout-optimizations)
+
+### Debugging
+- [Mastering Android App Performance: Analyzing Bottlenecks with Perfetto 🚦](https://blog.shreyaspatil.dev/mastering-android-app-performance-analyzing-bottlenecks-with-perfetto)
 
 <hr/>
 
