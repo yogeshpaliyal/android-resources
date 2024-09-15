@@ -16,6 +16,7 @@ This repository serves as a curated collection of valuable resources related to 
   - [Videos](#videos)
   - [Blogs](#blogs)
   - [Baseline Profiles](#baseline-profiles)
+  - [Startup Profiles](#startup-profiles)
 - [UI](#ui)
   - [Compose](#compose)
 - [Build Tools](#build-tools)
@@ -48,6 +49,9 @@ This repository serves as a curated collection of valuable resources related to 
 ### Baseline Profiles
 - [Making apps blazing fast with Baseline Profiles](https://youtu.be/yJm5On5Gp4c)
 - [Make your app faster with Baseline Profiles Perfetto and more - Rahul Ravikumar](https://youtu.be/7bLTmPpUIno)
+
+### Startup Profiles
+- [Official Documentation](https://developer.android.com/topic/performance/baselineprofiles/dex-layout-optimizations)
 
 <hr/>
 
