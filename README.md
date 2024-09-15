@@ -18,8 +18,6 @@ This repository serves as a curated collection of valuable resources related to 
   - [Baseline Profiles](#baseline-profiles)
   - [Startup Profiles](#startup-profiles)
   - [Debugging](#debugging)
-- [UI](#ui)
-  - [Compose](#compose)
 - [Build Tools](#build-tools)
   - [Gradle](#gradle)
   - [R8](#r8)
@@ -32,6 +30,7 @@ This repository serves as a curated collection of valuable resources related to 
 ## Internals
 ### Android
 - [Bytecode analysis for everyone!](https://youtu.be/6cYmdoeZ1OY)
+- [Desugaring in Android](https://blog.mindorks.com/desugaring-in-android/)
 ### Kotlin
 - [How to make kotlin compile 2x faster on a super large project?](https://www.droidcon.com/2024/08/11/how-to-make-kotlin-compile-2x-faster-on-a-super-large-project/)
 ### Popular Libraries
@@ -59,11 +58,8 @@ This repository serves as a curated collection of valuable resources related to 
 
 <hr/>
 
-## UI
-### Compose
-<hr/>
-
 ## Build Tools
+- [Creating Different Build Variants in Android](https://blog.mindorks.com/build-variants-in-android/)
 ### Gradle
 ### R8
 - [What is R8 and how we enabled it](https://stefma.medium.com/what-is-r8-and-how-we-enabled-it-4f5764a7ff9c#:~:text=The%20R8%20compiler%20detects%20unused,also%20optimizes%20the%20source%20code.)
