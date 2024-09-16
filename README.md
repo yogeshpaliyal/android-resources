@@ -33,6 +33,7 @@ This repository serves as a curated collection of valuable resources related to 
 - [Advanced Kotlin Flow Cheat sheet (for Android Engineer)](https://medium.com/@galou.minisini/advanced-kotlin-flow-cheat-sheet-for-android-engineer-cb8157d4f848)
 ### Popular Libraries
 #### Coroutines
+- [Coroutines Mastery: Tips, Best Practices, and Real-world Insights](https://www.droidcon.com/2024/08/30/coroutines-mastery-tips-best-practices-and-real-world-insights/)
 #### OkHttp
 #### Retrofit
 #### Glide
