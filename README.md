@@ -45,6 +45,7 @@ This repository serves as a curated collection of valuable resources related to 
 #### Video
 - [Unblocking The Main Thread: Solving ANRs and Frozen Frames](https://youtu.be/BSB7ZLNm9ac)
 - [🔍 LeakCanary Masterclass with Pierre-Yves Ricau - Unraveling Android Memory Leaks 🐦 #LiveTechT](https://youtu.be/ZdZSGnJw3mY)
+- [Perfetto Your App for Perfect Performance](https://www.droidcon.com/2024/08/30/perfetto-your-app-for-perfect-performance/)
 #### Blog
 - [Mastering Android App Performance: Analyzing Bottlenecks with Perfetto 🚦](https://blog.shreyaspatil.dev/mastering-android-app-performance-analyzing-bottlenecks-with-perfetto)
 
