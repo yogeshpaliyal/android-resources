@@ -21,6 +21,7 @@ This repository serves as a curated collection of valuable resources related to 
   - [D8](#d8)
 - [Tools](#tools)
   - [ADB](#adb)
+- [Debugging](#debugging)
 
 <hr/>  
 
@@ -69,4 +70,7 @@ This repository serves as a curated collection of valuable resources related to 
 ### ADB
 - [What if ADB does not have to be that complicated?](https://youtu.be/auiGFhKBDAE)
 - [PRACTICAL ADB USAGE TO ENHANCE YOUR LIFE! - Benjamin Kadel | Droidcon Italy 2023 Talk](https://youtu.be/KFnqoze9nZc)
+ 
+## Debugging
+- [DAAS: Debugging as a skill!](https://www.droidcon.com/2024/08/30/daas-debugging-as-a-skill/)
 
