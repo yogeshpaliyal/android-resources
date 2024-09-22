@@ -23,6 +23,7 @@ This repository serves as a curated collection of valuable resources related to 
 
 ## Internals
 ### Android
+- [The internals of Android APK build process — Article](https://medium.com/androiddevnotes/the-internals-of-android-apk-build-process-article-5b68c385fb20)
 - [Bytecode analysis for everyone!](https://youtu.be/6cYmdoeZ1OY)
 - [Desugaring in Android](https://blog.mindorks.com/desugaring-in-android/)
 ### Kotlin
