@@ -9,16 +9,12 @@ This repository serves as a curated collection of valuable resources related to 
   - [Kotlin](#kotlin)
   - [Popular Libraries](#popular-libraries)
     - [Coroutines](#coroutines)
-    - [OkHttp](#okhttp)
-    - [Retrofit](#retrofit)
-    - [Glide](#glide)
 - [Performance](#performance)
   - [Baseline Profiles](#baseline-profiles)
   - [Startup Profiles](#startup-profiles)
 - [Build Tools](#build-tools)
   - [Gradle](#gradle)
   - [R8](#r8)
-  - [D8](#d8)
 - [Tools](#tools)
   - [ADB](#adb)
 - [Debugging](#debugging)
@@ -35,9 +31,6 @@ This repository serves as a curated collection of valuable resources related to 
 ### Popular Libraries
 #### Coroutines
 - [Coroutines Mastery: Tips, Best Practices, and Real-world Insights](https://www.droidcon.com/2024/08/30/coroutines-mastery-tips-best-practices-and-real-world-insights/)
-#### OkHttp
-#### Retrofit
-#### Glide
 
 <hr/>
 
@@ -65,7 +58,7 @@ This repository serves as a curated collection of valuable resources related to 
 ### R8
 - [What is R8 and how we enabled it](https://stefma.medium.com/what-is-r8-and-how-we-enabled-it-4f5764a7ff9c#:~:text=The%20R8%20compiler%20detects%20unused,also%20optimizes%20the%20source%20code.)
 - [ProGuard — Everything You Need to Know](https://medium.com/@attilaptkai/proguard-everything-you-need-to-know-bb5ff9c04bcd)
-### D8
+
 <hr/>
 
 ## Tools
