@@ -1,7 +1,7 @@
 # Android-Resources
 ![android-resources-cover](./cover.jpeg)
 
-This repository serves as a curated collection of valuable resources related to Android development. It aims to provide developers with a centralized hub to discover and explore informative content on various Android-specific topics, including performance optimization, UI/UX design, architectural patterns, testing methodologies, popular libraries and tools, and best practices.
+This repository serves as a curated collection of valuable resources related to Android development. It aims to provide developers with a centralized hub to discover and explore informative content on various Android-specific topics, including, internals of android, performance optimization, architectural patterns, testing methodologies, popular libraries and tools, and best practices.
 
 ## Table of Contents
 - [Internals](#internals)
@@ -18,6 +18,7 @@ This repository serves as a curated collection of valuable resources related to 
 - [Tools](#tools)
   - [ADB](#adb)
 - [Debugging](#debugging)
+- [System Design](#system-design)
 
 <hr/>  
 
