@@ -1,6 +1,8 @@
 # Android-Resources
 ![android-resources-cover](./cover.jpeg)
 
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyogeshpaliyal%2Fandroid-resources&count_bg=%2379C83D&title_bg=%23555555&title=hits&style=for-the-badge%22" alt="visitCount">
+
 This repository serves as a curated collection of valuable resources related to Android development. It aims to provide developers with a centralized hub to discover and explore informative content on various Android-specific topics, including, internals of android, performance optimization, architectural patterns, testing methodologies, popular libraries and tools, and best practices.
 
 ## Table of Contents
