@@ -75,7 +75,6 @@ This repository serves as a curated collection of valuable resources related to 
 
 
 ## System Design
-- [The System Design Interview For Mobile Developers](https://davescommutebloghome.wpcomstaging.com/2019/08/27/system-design-interview/)
 - [Grokking the Mobile System Design interview](https://artem-goncharov.medium.com/grokking-the-mobile-system-design-interview-6a06fa94491b)
 - [Mobile System Design Interviews (iOS and Android)](https://naxirmahmood.medium.com/mobile-system-design-interviews-ios-and-android-f5d360292c22)
 
