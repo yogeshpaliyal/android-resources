@@ -75,6 +75,7 @@ This repository serves as a curated collection of valuable resources related to 
 
 
 ## System Design
+- [Awesome Mobile System Design curated list](https://github.com/yogeshpaliyal/awesome-mobile-system-design)
 - [Grokking the Mobile System Design interview](https://artem-goncharov.medium.com/grokking-the-mobile-system-design-interview-6a06fa94491b)
 - [Mobile System Design Interviews (iOS and Android)](https://naxirmahmood.medium.com/mobile-system-design-interviews-ios-and-android-f5d360292c22)
 
